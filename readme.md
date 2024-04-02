@@ -23,5 +23,5 @@ bottom:
 
 ###### gerber:  
 Archive for production:  
-[Amplifier_v0.1](https://github.com/piro-s/music_amplifier/raw/master/amplifier/gerber/mahp_v0.1.zip)  
-[Indicator_v0.1](https://github.com/piro-s/music_amplifier/raw/master/indicator/gerber/indicator_v0.1.zip)  
+[Amplifier_v0.1](https://github.com/piro-s/mahp/raw/master/amplifier/gerber/mahp_v0.1.zip)  
+[Indicator_v0.1](https://github.com/piro-s/mahp/raw/master/indicator/gerber/indicator_v0.1.zip)  
